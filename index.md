@@ -12,12 +12,10 @@ Ms.Supisara Prasongsook (Chompoo)
 นักศึกษาชั้นปีที่ 1 อายุ 19 ปี
 
 ```
-
 ## EDUCATION
 ```markdown
 - จบการศึกษาจากโรงเรียนสิรินธร จังหวัดสุรินทร์ 
 - กำลังศึกษาอยู่สาขาวิทยาศาสตร์และนวัตกรรมข้อมูล วิทยาลัยสหวิทยาการ มหาวิทยาลัยธรรมศาสตร์
-
 ```
 ## STRENGTHS
 ```markdown
@@ -28,21 +26,19 @@ Ms.Supisara Prasongsook (Chompoo)
 ```
 ## WEAKNESSES
 ```markdown
-- ความอดทนน้อย
+- ความอดทนต่ำ
 - ใจร้อน
 ```
+# SKILLS
+```markdown
+- สามารถสื่อสาร อ่านและเขียนภาษาอังกฤษได้ในระดับดี
+- สามารถใช้โปรเเกรมคอมพิวเตอร์ต่างๆได้ เช่น Program Microsoft Word, Excel, Power Point  
+```
 
+## ACTIVITIES
+```markdown
+1.  
 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
