@@ -1,6 +1,6 @@
 # CURRICULUM VITAE
 
-
+<img src="https://img.in.th/image/WSybMY" width="200" height="250">
 ## ABOUT ME
 
 ```markdown
@@ -11,6 +11,10 @@ Ms.Supisara Prasongsook (Chompoo)
 
 นักศึกษาชั้นปีที่ 1 อายุ 19 ปี
 
+CONTACT
+- Phone : 0973434109
+- Email : supisara.pras@dome.tu.ac.th
+- Instagram : spsrpss
 ```
 ## EDUCATION
 ```markdown
