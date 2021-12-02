@@ -1,6 +1,6 @@
 # CURRICULUM VITAE
 
-![alt text](https://sv1.picz.in.th/images/2021/12/02/6U3jbv.jpg)
+<img src="https://sv1.picz.in.th/images/2021/12/02/6U3jbv.jpg" width="200" height="250">
 ## ABOUT ME
 
 ```markdown
