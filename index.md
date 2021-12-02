@@ -1,6 +1,6 @@
 # CURRICULUM VITAE
 
-<img src="https://www.picz.in.th/image/s-43327525.6iDJda" width="200" height="250">
+![image]https://www.picz.in.th/image/s-43327525.6iDJda
 ## ABOUT ME
 
 ```markdown
